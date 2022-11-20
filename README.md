@@ -11,7 +11,7 @@
 <p><img style='heigth:'10px'' src='https://avangardio-1.ru/static/lenta.png'>
 <p><b>Основной язык программирования:</b> <img vertical-align='middle' src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"> & <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript">
   
-<p><b>Основной язык:</b> Русский. Разговариваю, свободно пишу и читаю на Английском.
+<p><b>Основной язык:</b> Русский. Разговорный Английский на уровне В1, свободно пишу и читаю на Английском.
   
 <p>Для <b>фронтэнда</b> использую <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt='ReactJS'/>, <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt='NextJS'/>, <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt='Redux'/>
   
