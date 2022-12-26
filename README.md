@@ -4,6 +4,7 @@
 <p><img style='heigth:'10px'' src='https://avangardio-1.ru/static/lenta.png'>
 <p><b>Обо мне:</b> <b>Артем</b>, 21 год, постоянно учусь и развиваюсь в разработке web-приложений.
 <p>Мой общедоступный сервис по типу мессенджера- <a href='https://avangardio-1.ru/' target='_blank'>ссылка</a>. Его гитхаб - <a href ='https://github.com/Avangardio/FCService'>здесь</a>.
+ <p>Мой гитхаб телеграмм бота по взаимодействию с ютубом (см. описание) - <a href ='https://github.com/Avangardio/reporter-bot'>здесь</a>.
 <p>Способы связаться со мной: <a href="https://t.me/Avangardio">Телеграм</a>, <a href='avangardio1458@gmail.com' alt='Gmail'>Написать на почту</a>.
 <p>
 <h3 align='middle'>Мои умения</h3>
