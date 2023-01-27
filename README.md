@@ -1,5 +1,5 @@
 <h1 align='middle'>Артем Белянин</h1>
-<p align='middle' style='margin-bottom: '10px''>Fullstack & Frontend Разработчик</p>
+<p align='middle' style='margin-bottom: '10px''>Fullstack Разработчик</p>
 <h3 align='middle'>Обо мне</h3>
 <p><img style='heigth:'10px'' src='https://avangardio-1.ru/static/lenta.png'>
 <p><b>Обо мне:</b> <b>Артем</b>, 21 год, постоянно учусь и развиваюсь в разработке web-приложений.
