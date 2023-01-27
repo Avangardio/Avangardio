@@ -8,7 +8,7 @@
  <li><p>Мой общедоступный, использующийся пользователями для отслеживания финансов - <a href='https://savemyfinance.com'>ссылка</a>. Его репозиторий -  <a href ='https://github.com/Avangardio/SMF'>здесь</a>.
 <li> <p>Мой телеграм бот по взаимодействию с ютубом (см. описание в репозитории.) - <a href ='https://github.com/Avangardio/reporter-bot'>здесь</a>.
   </ul>
-<p>Способы связаться со мной: <a href="https://t.me/Avangardio">Телеграм</a>, <adress> <a href='avangardio1458@gmail.com' alt='Gmail'>Написать на почту</a></adress>.
+<p>Способы связаться со мной: <a href="https://t.me/Avangardio">Телеграм</a>, <a>Написать на почту: avangardio1458@gmail.com</a>.
 <p>
 <h3 align='middle'>Мои умения</h3>
 
