@@ -5,7 +5,7 @@
 <p><b>Обо мне:</b> <b>Артем</b>, 21 год, постоянно учусь и развиваюсь в разработке web-приложений.
  <ul>
 <li><p>Мой общедоступный сервис по типу мессенджера в реальном времени - <a href='https://avangardio-1.ru/' target='_blank'>ссылка</a>. Его репозиторий - <a href ='https://github.com/Avangardio/FCService'>здесь</a>.
- <li><p>Мой общедоступный, использующийся пользователями для отслеживания финансов - <a href='https://savemyfinance.com'>ссылка</a>. Его репозиторий -  <a href ='https://github.com/Avangardio/SMF'>здесь</a>.
+ <li><p>Мой общедоступный сервис для отслеживания и работы с финансами - <a href='https://savemyfinance.com'>ссылка</a>. Его репозиторий -  <a href ='https://github.com/Avangardio/SMF'>здесь</a>.
 <li> <p>Мой телеграм бот по взаимодействию с ютубом (см. описание в репозитории.) - <a href ='https://github.com/Avangardio/reporter-bot'>здесь</a>.
   </ul>
 <p>Способы связаться со мной: <a href="https://t.me/Avangardio">Телеграм</a>, <a>Написать на почту: avangardio1458@gmail.com</a>.
