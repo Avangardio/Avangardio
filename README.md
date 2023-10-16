@@ -2,13 +2,13 @@
 <p align='middle' style='margin-bottom: '10px''>Fullstack Разработчик</p>
 <h3 align='middle'>Обо мне</h3>
 <p><img style='heigth:'10px'' src='https://avangardio-1.ru/static/lenta.png'>
-<p><b>Обо мне:</b> <b>Артем</b>, 21 год, постоянно учусь и развиваюсь в разработке web-приложений.
+<p><b>Обо мне:</b> <b>Артем</b>, 22 года, постоянно учусь и развиваюсь в разработке web-приложений.
  <ul>
 <li><p>Мой общедоступный сервис по типу мессенджера в реальном времени - <a href='https://avangardio-1.ru/' target='_blank'>ссылка</a>. Его репозиторий - <a href ='https://github.com/Avangardio/FCService'>здесь</a>.
  <li><p>Мой общедоступный сервис для отслеживания и работы с финансами - <a href='https://savemyfinance.com'>ссылка</a>. Его репозиторий -  <a href ='https://github.com/Avangardio/SMF'>здесь</a>.
 <li> <p>Мой телеграм бот по взаимодействию с ютубом (см. описание в репозитории.) - <a href ='https://github.com/Avangardio/reporter-bot'>здесь</a>. (в данный момент отключен из-за трат на хостинг).
   </ul>
-<p>Способы связаться со мной: <a href="https://t.me/Avangardio">Телеграм</a>, <a>Написать на почту: avangardio1458@gmail.com</a>.
+<p>Способы связаться со мной: <a href="https://t.me/Avangardio">Телеграм</a>, <a href = "mailto: avangardio1458@gmail.com">Написать на почту</a>.
 <p>
 <h3 align='middle'>Мои умения</h3>
 
