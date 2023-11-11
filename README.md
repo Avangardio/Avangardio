@@ -5,12 +5,10 @@
 <p><b>Обо мне:</b> <b>Артем</b>, разработчик веб приложений, серверных и клиентских.
  <ul>Рекомендую посмотреть на следующие проекты, по списку:
 <li><p>
-<img src='https://img.shields.io/badge/NEW-F24E1E
-'/>
+<img src='https://img.shields.io/badge/NEW-F24E1E'/>
 Сервис-медиа блог - <a href ='https://github.com/Avangardio/blog'>GitHub</a> 
 <li><p>
-<img src='https://img.shields.io/badge/NEW-F24E1E
-'/>
+<img src='https://img.shields.io/badge/NEW-F24E1E'/>
 Собственная библиотека для реакта для создания форм - <a href ='https://www.npmjs.com/package/afreactforms'><img src='https://img.shields.io/badge/NPM-FF2400'/></a>
 <li><p>
 Телеграм бот по взаимодействию с ютубом - <a href ='https://github.com/Avangardio/reporter-bot'>GitHub</a>
