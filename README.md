@@ -2,13 +2,16 @@
 <p align='middle'>Fullstack Разработчик</p>
 <h3 align='middle'>Обо мне</h3>
 <img src='https://i.postimg.cc/j2S6Sw-dq/image-6.png' height="5" width="10000">
-<p><b>Обо мне:</b> <b>Артем</b>, разработчик веб приложений, серверных и клиентских.
+<p>
+<b>Обо мне:</b> <b>Артем</b>, разработчик веб приложений, серверных и клиентских.
  <ul>Рекомендую посмотреть на следующие проекты, по списку:
 <li><p>
-<img src='https://img.shields.io/badge/NEW-F24E1E'/>
+<img src='https://img.shields.io/badge/NEW-F24E1E
+'/>
 Сервис-медиа блог - <a href ='https://github.com/Avangardio/blog'>GitHub</a> 
 <li><p>
-<img src='https://img.shields.io/badge/NEW-F24E1E'/>
+<img src='https://img.shields.io/badge/NEW-F24E1E
+'/>
 Собственная библиотека для реакта для создания форм - <a href ='https://www.npmjs.com/package/afreactforms'><img src='https://img.shields.io/badge/NPM-FF2400'/></a>
 <li><p>
 Телеграм бот по взаимодействию с ютубом - <a href ='https://github.com/Avangardio/reporter-bot'>GitHub</a>
@@ -21,7 +24,8 @@ Cервис по типу мессенджера в реальном време�
 <h3 align='middle'>Способы связаться со мной</h3>
 <p><img src='https://i.postimg.cc/j2S6Sw-dq/image-6.png' height="5" width="10000">
 
-<p ><a href="https://t.me/Avangardio">Телеграм</a>, <a href = "mailto: avangardio1458@gmail.com">Написать на почту</a>.
+<p ><a href="https://t.me/Avangardio"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt='Телеграм'/></a>
+<p></p><a href = "mailto: avangardio1458@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt='Написать на почту'"></a>
 <h3 align='middle'>Мои умения</h3>
 
 <p><img src='https://i.postimg.cc/j2S6Sw-dq/image-6.png' height="5" width="10000">
