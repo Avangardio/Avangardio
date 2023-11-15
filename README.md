@@ -64,6 +64,7 @@ Cервис по типу мессенджера в реальном време�
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt='MySQL'/>
  <p> А так же:
   <p/><img src='https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white'/>
+   <img src='https://camo.githubusercontent.com/2e1f2dc091af830685d2057c2d4c797b639c7d1601a8d6019629272c210b707b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4772617068514c26636f6c6f723d453130303938266c6f676f3d4772617068514c266c6f676f436f6c6f723d464646464646266c6162656c3d'/>
 <img src='https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)'/>
 <img src='https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white' />
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka"/> 
